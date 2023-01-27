@@ -1,8 +1,8 @@
-package com.bs;
+package com.bs.milestone1.lecture4;
 
 import java.util.Scanner;
 
-public class FactorsDemo {
+public class FactorsProgram {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int num = s.nextInt();

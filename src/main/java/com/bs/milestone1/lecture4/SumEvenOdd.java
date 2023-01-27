@@ -1,4 +1,4 @@
-package com.bs;
+package com.bs.milestone1.lecture4;
 
 import java.util.Scanner;
 
