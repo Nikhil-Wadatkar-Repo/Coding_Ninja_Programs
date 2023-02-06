@@ -2,7 +2,9 @@
 **Hi, Please find all the questions related to assignement here.**
 
 1. Write a program to calculate the total salary of a person. The user has to enter the basic salary (an integer) and the grade (an uppercase character), and depending upon which the total salary is calculated as -
+
 _**totalSalary = basic + hra + da + allow – pf**_
+
 where :
 hra   = 20% of basic
 da    = 50% of basic
