@@ -10,7 +10,7 @@ public class AlphaPattern {
         while (i <= num) {
             int j = 0;
             while (j < i) {
-                System.out.print((char) ('A' + i));
+                System.out.print((char) ('A' + i - 1));
                 j = j + 1;
             }
             i = i + 1;
